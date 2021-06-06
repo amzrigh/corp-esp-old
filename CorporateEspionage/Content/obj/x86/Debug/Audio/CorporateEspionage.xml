@@ -1,0 +1,339 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sections>
+  <WaveBank Name="Wave Bank">Wave Bank
+{
+    Name = Wave Bank;
+    Xbox File = Xbox\Wave Bank.xwb;
+    Windows File = Win\Wave Bank.xwb;
+    Xbox Bank Path Edited = 0;
+    Windows Bank Path Edited = 0;
+    Seek Tables = 1;
+    Compression Preset Name = &lt;none&gt;;
+    Bank Last Revised Low = 3298329354;
+    Bank Last Revised High = 30150524;
+
+    Wave
+    {
+        Name = start;
+        File = ..\..\..\..\..\..\Spring2011\XNA\start.wav;
+        Build Settings Last Modified Low = 2747315739;
+        Build Settings Last Modified High = 30150377;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 32000;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 6289352;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 82163301;
+            Last Modified High = 30150377;
+        }
+    }
+
+    Wave
+    {
+        Name = lobby;
+        File = ..\..\..\..\..\..\Spring2011\XNA\lobby.wav;
+        Build Settings Last Modified Low = 2817879775;
+        Build Settings Last Modified High = 30150377;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 7113752;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2021915369;
+            Last Modified High = 30150358;
+        }
+    }
+
+    Wave
+    {
+        Name = research;
+        File = ..\..\..\..\..\..\Spring2011\XNA\research.wav;
+        Build Settings Last Modified Low = 2861562273;
+        Build Settings Last Modified High = 30150377;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 32000;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 9964148;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1794027593;
+            Last Modified High = 30150367;
+        }
+    }
+
+    Wave
+    {
+        Name = production_intro;
+        File = ..\..\..\..\..\..\Spring2011\XNA\production_intro.wav;
+        Build Settings Last Modified Low = 3018581254;
+        Build Settings Last Modified High = 30150377;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 995648;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2081837158;
+            Last Modified High = 30150359;
+        }
+    }
+
+    Wave
+    {
+        Name = production;
+        File = ..\..\..\..\..\..\Spring2011\XNA\production.wav;
+        Build Settings Last Modified Low = 3036672289;
+        Build Settings Last Modified High = 30150377;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 9997148;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 4235890363;
+            Last Modified High = 30150359;
+        }
+    }
+
+    Wave
+    {
+        Name = win_intro;
+        File = ..\..\..\..\..\..\Spring2011\XNA\win_intro.wav;
+        Build Settings Last Modified Low = 3309927918;
+        Build Settings Last Modified High = 30150377;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 32000;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 575600;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 577813288;
+            Last Modified High = 30150376;
+        }
+    }
+
+    Wave
+    {
+        Name = win;
+        File = ..\..\..\..\..\..\Spring2011\XNA\win.wav;
+        Build Settings Last Modified Low = 3326098843;
+        Build Settings Last Modified High = 30150377;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 32000;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 1715448;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1908149379;
+            Last Modified High = 30150376;
+        }
+    }
+
+    Wave
+    {
+        Name = gameover_intro;
+        File = ..\..\..\..\..\..\Spring2011\XNA\gameover_intro.wav;
+        Build Settings Last Modified Low = 3403303259;
+        Build Settings Last Modified High = 30150377;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 32000;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 523696;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2283772502;
+            Last Modified High = 30150375;
+        }
+    }
+
+    Wave
+    {
+        Name = gameover;
+        File = ..\..\..\..\..\..\Spring2011\XNA\gameover.wav;
+        Build Settings Last Modified Low = 3417054046;
+        Build Settings Last Modified High = 30150377;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 32000;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 4718488;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3476150702;
+            Last Modified High = 30150375;
+        }
+    }
+
+    Wave
+    {
+        Name = error;
+        File = ..\..\..\..\..\..\Spring2011\XNA\error.wav;
+        Build Settings Last Modified Low = 1415326623;
+        Build Settings Last Modified High = 30150391;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 56;
+            Play Region Length = 27042;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 496981768;
+            Last Modified High = 30150368;
+        }
+    }
+
+    Wave
+    {
+        Name = buy1;
+        File = ..\..\..\..\..\..\Spring2011\XNA\buy1.wav;
+        Build Settings Last Modified Low = 2203726746;
+        Build Settings Last Modified High = 30150524;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 56;
+            Play Region Length = 18292;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1805413964;
+            Last Modified High = 30150524;
+        }
+    }
+
+    Wave
+    {
+        Name = buy2;
+        File = ..\..\..\..\..\..\Spring2011\XNA\buy2.wav;
+        Build Settings Last Modified Low = 2203726746;
+        Build Settings Last Modified High = 30150524;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 56;
+            Play Region Length = 32938;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1415046550;
+            Last Modified High = 30150521;
+        }
+    }
+
+    Wave
+    {
+        Name = die;
+        File = ..\..\..\..\..\..\Spring2011\XNA\die.wav;
+        Build Settings Last Modified Low = 2203736747;
+        Build Settings Last Modified High = 30150524;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 56;
+            Play Region Length = 66308;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1787987881;
+            Last Modified High = 30150521;
+        }
+    }
+
+    Wave
+    {
+        Name = robotstep;
+        File = ..\..\..\..\..\..\Spring2011\XNA\robotstep.wav;
+        Build Settings Last Modified Low = 3066816112;
+        Build Settings Last Modified High = 30150524;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 56;
+            Play Region Length = 24152;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2765088854;
+            Last Modified High = 30150524;
+        }
+    }
+}
+
+</WaveBank>
+</Sections>

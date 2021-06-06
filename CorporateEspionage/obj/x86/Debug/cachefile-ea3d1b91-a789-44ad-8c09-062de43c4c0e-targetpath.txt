@@ -1,0 +1,47 @@
+Content\Fonts\Arial.xnb
+Content\Images\main_border.xnb
+Content\Images\marketing_bar.xnb
+Content\Images\marketing_border.xnb
+Content\Images\production_bar.xnb
+Content\Images\production_border.xnb
+Content\Images\research_bar.xnb
+Content\Images\research_border.xnb
+Content\Images\security_bar.xnb
+Content\Images\security_border.xnb
+Content\Images\blank.xnb
+Content\Images\gradient.xnb
+Content\Images\placeholder_splash.xnb
+Content\Images\placeholder_title.xnb
+Content\Images\production_advanced.xnb
+Content\Images\production_basic.xnb
+Content\Images\production_expert.xnb
+Content\Images\production_intermediate.xnb
+Content\Images\production_rookie.xnb
+Content\Images\production_veteran.xnb
+Content\Images\research_advanced.xnb
+Content\Images\research_basic.xnb
+Content\Images\research_expert.xnb
+Content\Images\research_intermediate.xnb
+Content\Images\research_rookie.xnb
+Content\Images\research_veteran.xnb
+Content\Images\placeholder_product.xnb
+Content\Fonts\Ketchup Spaghetti.xnb
+Content\Fonts\Lilliput Steps.xnb
+Content\Fonts\A.D. MONO.xnb
+Content\Fonts\Aerovias Brasil NF.xnb
+Content\Images\research_splash.xnb
+Content\Fonts\Americana Dreams.xnb
+Content\Images\camera.xnb
+Content\Images\car.xnb
+Content\Images\chair.xnb
+Content\Images\chair2.xnb
+Content\Images\desk.xnb
+Content\Images\helicopter.xnb
+Content\Images\main_splash.xnb
+Content\Images\production_splash.xnb
+Content\Images\receptionist.xnb
+Content\Fonts\HowToFont.xnb
+Content\Images\tv.xnb
+Content\Audio\CorporateEspionage.xgs
+Content\Audio\Wave Bank.xwb
+Content\Audio\Sound Bank.xsb

@@ -1,0 +1,441 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Fonts\Arial.spritefont</Source>
+      <Name>Fonts\Arial</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Fonts\Arial.xnb</Output>
+      <Time>2011-04-04T18:29:18-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\main_border.PNG</Source>
+      <Name>Images\main_border</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\main_border.xnb</Output>
+      <Time>2011-04-24T15:56:30-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\marketing_bar.PNG</Source>
+      <Name>Images\marketing_bar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\marketing_bar.xnb</Output>
+      <Time>2011-04-24T16:14:32-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\marketing_border.PNG</Source>
+      <Name>Images\marketing_border</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\marketing_border.xnb</Output>
+      <Time>2011-04-24T16:14:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\production_bar.PNG</Source>
+      <Name>Images\production_bar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\production_bar.xnb</Output>
+      <Time>2011-04-24T16:00:02-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\production_border.PNG</Source>
+      <Name>Images\production_border</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\production_border.xnb</Output>
+      <Time>2011-04-24T15:59:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\research_bar.PNG</Source>
+      <Name>Images\research_bar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\research_bar.xnb</Output>
+      <Time>2011-04-24T16:00:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\research_border.PNG</Source>
+      <Name>Images\research_border</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\research_border.xnb</Output>
+      <Time>2011-04-24T16:00:18-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\security_bar.PNG</Source>
+      <Name>Images\security_bar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\security_bar.xnb</Output>
+      <Time>2011-04-24T16:19:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\security_border.PNG</Source>
+      <Name>Images\security_border</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\security_border.xnb</Output>
+      <Time>2011-04-24T16:19:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\blank.png</Source>
+      <Name>Images\blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\blank.xnb</Output>
+      <Time>2010-07-13T16:59:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\gradient.png</Source>
+      <Name>Images\gradient</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\gradient.xnb</Output>
+      <Time>2010-07-13T16:59:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\placeholder_splash.png</Source>
+      <Name>Images\placeholder_splash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\placeholder_splash.xnb</Output>
+      <Time>2011-05-04T16:29:48-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\placeholder_title.png</Source>
+      <Name>Images\placeholder_title</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\placeholder_title.xnb</Output>
+      <Time>2011-05-04T16:33:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\production_advanced.png</Source>
+      <Name>Images\production_advanced</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\production_advanced.xnb</Output>
+      <Time>2011-05-05T19:02:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\production_basic.png</Source>
+      <Name>Images\production_basic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\production_basic.xnb</Output>
+      <Time>2011-05-05T19:02:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\production_expert.png</Source>
+      <Name>Images\production_expert</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\production_expert.xnb</Output>
+      <Time>2011-05-05T19:02:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\production_intermediate.png</Source>
+      <Name>Images\production_intermediate</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\production_intermediate.xnb</Output>
+      <Time>2011-05-05T19:02:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\production_rookie.png</Source>
+      <Name>Images\production_rookie</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\production_rookie.xnb</Output>
+      <Time>2011-05-05T19:02:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\production_veteran.png</Source>
+      <Name>Images\production_veteran</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\production_veteran.xnb</Output>
+      <Time>2011-05-05T19:02:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\research_advanced.png</Source>
+      <Name>Images\research_advanced</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\research_advanced.xnb</Output>
+      <Time>2011-05-09T00:50:25.4042584-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\research_basic.png</Source>
+      <Name>Images\research_basic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\research_basic.xnb</Output>
+      <Time>2011-05-09T00:49:21.0395769-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\research_expert.png</Source>
+      <Name>Images\research_expert</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\research_expert.xnb</Output>
+      <Time>2011-05-05T19:02:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\research_intermediate.png</Source>
+      <Name>Images\research_intermediate</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\research_intermediate.xnb</Output>
+      <Time>2011-05-09T00:49:57.2276468-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\research_rookie.png</Source>
+      <Name>Images\research_rookie</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\research_rookie.xnb</Output>
+      <Time>2011-05-05T19:02:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\research_veteran.png</Source>
+      <Name>Images\research_veteran</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\research_veteran.xnb</Output>
+      <Time>2011-05-05T19:02:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\placeholder_product.png</Source>
+      <Name>Images\placeholder_product</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\placeholder_product.xnb</Output>
+      <Time>2011-05-07T18:08:46.4647955-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Ketchup Spaghetti.spritefont</Source>
+      <Name>Fonts\Ketchup Spaghetti</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Fonts\Ketchup Spaghetti.xnb</Output>
+      <Time>2011-05-10T21:43:25.3474002-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Lilliput Steps.spritefont</Source>
+      <Name>Fonts\Lilliput Steps</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Fonts\Lilliput Steps.xnb</Output>
+      <Time>2011-05-10T00:16:45.2195181-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\A.D. MONO.spritefont</Source>
+      <Name>Fonts\A.D. MONO</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Fonts\A.D. MONO.xnb</Output>
+      <Time>2011-05-09T04:11:45.9442258-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Aerovias Brasil NF.spritefont</Source>
+      <Name>Fonts\Aerovias Brasil NF</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Fonts\Aerovias Brasil NF.xnb</Output>
+      <Time>2011-05-09T17:09:49.3496253-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\research_splash.png</Source>
+      <Name>Images\research_splash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\research_splash.xnb</Output>
+      <Time>2011-05-07T21:48:54.4042464-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Americana Dreams.spritefont</Source>
+      <Name>Fonts\Americana Dreams</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Fonts\Americana Dreams.xnb</Output>
+      <Time>2011-05-10T00:19:07.3436472-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\camera.png</Source>
+      <Name>Images\camera</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\camera.xnb</Output>
+      <Time>2011-05-10T02:03:51.9881083-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\car.png</Source>
+      <Name>Images\car</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\car.xnb</Output>
+      <Time>2011-05-10T02:03:51.9911084-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\chair.png</Source>
+      <Name>Images\chair</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\chair.xnb</Output>
+      <Time>2011-05-10T02:03:51.9941086-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\chair2.png</Source>
+      <Name>Images\chair2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\chair2.xnb</Output>
+      <Time>2011-05-10T02:03:51.9971088-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\desk.png</Source>
+      <Name>Images\desk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\desk.xnb</Output>
+      <Time>2011-05-10T02:03:52.000109-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\helicopter.png</Source>
+      <Name>Images\helicopter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\helicopter.xnb</Output>
+      <Time>2011-05-10T02:03:52.0031091-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\main_splash.png</Source>
+      <Name>Images\main_splash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\main_splash.xnb</Output>
+      <Time>2011-05-10T02:04:40.5018831-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\production_splash.png</Source>
+      <Name>Images\production_splash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\production_splash.xnb</Output>
+      <Time>2011-05-10T02:04:40.5148838-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\receptionist.png</Source>
+      <Name>Images\receptionist</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\receptionist.xnb</Output>
+      <Time>2011-05-10T02:35:05.1782486-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\HowToFont.spritefont</Source>
+      <Name>Fonts\HowToFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Fonts\HowToFont.xnb</Output>
+      <Time>2011-05-10T21:52:13.206592-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\tv.png</Source>
+      <Name>Images\tv</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\tv.xnb</Output>
+      <Time>2011-05-10T22:26:56.1357287-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T00:16:14-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T00:16:06-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T00:16:16-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T00:16:26-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T00:16:12-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T00:16:06-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-05-06T22:36:25.1982647-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

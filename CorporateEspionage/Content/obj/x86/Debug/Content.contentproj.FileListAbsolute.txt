@@ -1,0 +1,7 @@
+C:\Users\MM0281294\Documents\Visual Studio 2008\Projects\CorporateEspionage\CorporateEspionage\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\CorporateEspionage\CorporateEspionage\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MM0281294\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mmccarthy\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\Content\obj\x86\Debug\Audio\CorporateEspionage.xml

@@ -1,0 +1,137 @@
+C:\Users\MM0281294\Documents\Visual Studio 2008\Projects\CorporateEspionage\CorporateEspionage\bin\x86\Debug\Content\Fonts\Arial.xnb
+C:\Users\MM0281294\Documents\Visual Studio 2008\Projects\CorporateEspionage\CorporateEspionage\bin\x86\Debug\CorporateEspionage.exe
+C:\Users\MM0281294\Documents\Visual Studio 2008\Projects\CorporateEspionage\CorporateEspionage\bin\x86\Debug\CorporateEspionage.pdb
+C:\Users\MM0281294\Documents\Visual Studio 2008\Projects\CorporateEspionage\CorporateEspionage\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MM0281294\Documents\Visual Studio 2008\Projects\CorporateEspionage\CorporateEspionage\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\MM0281294\Documents\Visual Studio 2008\Projects\CorporateEspionage\CorporateEspionage\obj\x86\Debug\CorporateEspionage.exe
+C:\Users\MM0281294\Documents\Visual Studio 2008\Projects\CorporateEspionage\CorporateEspionage\obj\x86\Debug\CorporateEspionage.pdb
+C:\Users\MM0281294\Documents\Visual Studio 2008\Projects\CorporateEspionage\CorporateEspionage\bin\x86\Debug\Content\Images\coffee_bg.xnb
+C:\Users\MM0281294\Documents\Visual Studio 2008\Projects\CorporateEspionage\CorporateEspionage\bin\x86\Debug\Content\Images\balls_bg.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\CorporateEspionage\CorporateEspionage\bin\x86\Debug\Content\Fonts\Arial.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\CorporateEspionage\CorporateEspionage\bin\x86\Debug\Content\Images\coffee_bg.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\CorporateEspionage\CorporateEspionage\bin\x86\Debug\Content\Images\balls_bg.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\CorporateEspionage\CorporateEspionage\bin\x86\Debug\CorporateEspionage.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\CorporateEspionage\CorporateEspionage\bin\x86\Debug\CorporateEspionage.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\CorporateEspionage\CorporateEspionage\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\CorporateEspionage\CorporateEspionage\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\CorporateEspionage\CorporateEspionage\obj\x86\Debug\CorporateEspionage.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\CorporateEspionage\CorporateEspionage\obj\x86\Debug\CorporateEspionage.pdb
+C:\Users\MM0281294\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MM0281294\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\MM0281294\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\obj\x86\Debug\CorporateEspionage.exe
+C:\Users\MM0281294\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\obj\x86\Debug\CorporateEspionage.pdb
+C:\Users\MM0281294\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\production_border.xnb
+C:\Users\MM0281294\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\marketing_border.xnb
+C:\Users\MM0281294\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\main_border.xnb
+C:\Users\MM0281294\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\research_bar.xnb
+C:\Users\MM0281294\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\research_border.xnb
+C:\Users\MM0281294\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\security_border.xnb
+C:\Users\MM0281294\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\production_bar.xnb
+C:\Users\MM0281294\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Fonts\Arial.xnb
+C:\Users\MM0281294\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\marketing_bar.xnb
+C:\Users\MM0281294\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\coffee_bg.xnb
+C:\Users\MM0281294\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\security_bar.xnb
+C:\Users\MM0281294\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\balls_bg.xnb
+C:\Users\MM0281294\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\CorporateEspionage.exe
+C:\Users\MM0281294\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\CorporateEspionage.pdb
+C:\Users\MM0281294\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\blank.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Fonts\Arial.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\coffee_bg.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\balls_bg.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\main_border.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\marketing_bar.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\marketing_border.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\production_bar.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\production_border.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\research_bar.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\research_border.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\security_bar.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\security_border.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\blank.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\CorporateEspionage.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\CorporateEspionage.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\obj\x86\Debug\CorporateEspionage.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\obj\x86\Debug\CorporateEspionage.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\gradient.xnb
+C:\Users\MM0281294\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\gradient.xnb
+C:\Users\mmccarthy\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Fonts\Arial.xnb
+C:\Users\mmccarthy\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\coffee_bg.xnb
+C:\Users\mmccarthy\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\balls_bg.xnb
+C:\Users\mmccarthy\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\main_border.xnb
+C:\Users\mmccarthy\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\marketing_bar.xnb
+C:\Users\mmccarthy\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\marketing_border.xnb
+C:\Users\mmccarthy\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\production_bar.xnb
+C:\Users\mmccarthy\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\production_border.xnb
+C:\Users\mmccarthy\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\research_bar.xnb
+C:\Users\mmccarthy\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\research_border.xnb
+C:\Users\mmccarthy\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\security_bar.xnb
+C:\Users\mmccarthy\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\security_border.xnb
+C:\Users\mmccarthy\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\blank.xnb
+C:\Users\mmccarthy\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\gradient.xnb
+C:\Users\mmccarthy\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\placeholder_splash.xnb
+C:\Users\mmccarthy\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\placeholder_title.xnb
+C:\Users\mmccarthy\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\CorporateEspionage.exe
+C:\Users\mmccarthy\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\CorporateEspionage.pdb
+C:\Users\mmccarthy\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mmccarthy\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\mmccarthy\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\obj\x86\Debug\CorporateEspionage.exe
+C:\Users\mmccarthy\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\obj\x86\Debug\CorporateEspionage.pdb
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\obj\x86\Debug\CorporateEspionage.exe
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\obj\x86\Debug\CorporateEspionage.pdb
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Fonts\Arial.xnb
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\main_border.xnb
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\marketing_bar.xnb
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\marketing_border.xnb
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\production_bar.xnb
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\production_border.xnb
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\research_bar.xnb
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\research_border.xnb
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\security_bar.xnb
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\security_border.xnb
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\blank.xnb
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\gradient.xnb
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\placeholder_splash.xnb
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\placeholder_title.xnb
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\production_advanced.xnb
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\production_basic.xnb
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\production_expert.xnb
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\production_intermediate.xnb
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\production_rookie.xnb
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\production_veteran.xnb
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\research_advanced.xnb
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\research_basic.xnb
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\research_expert.xnb
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\research_intermediate.xnb
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\research_rookie.xnb
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\research_veteran.xnb
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\CorporateEspionage.exe
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\CorporateEspionage.pdb
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\placeholder_product.xnb
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Fonts\Ketchup Spaghetti.xnb
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Fonts\Lilliput Steps.xnb
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Fonts\A.D. MONO.xnb
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Fonts\Aerovias Brasil NF.xnb
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\research_splash.xnb
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Fonts\Americana Dreams.xnb
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\camera.xnb
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\car.xnb
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\chair.xnb
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\chair2.xnb
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\desk.xnb
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\helicopter.xnb
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\main_splash.xnb
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\production_splash.xnb
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\receptionist.xnb
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Audio\CorporateEspionage.xgs
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\CorporateEspionage.exe.manifest
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\CorporateEspionage.application
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\obj\x86\Debug\CorporateEspionage.exe.manifest
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\obj\x86\Debug\CorporateEspionage.application
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Fonts\HowToFont.xnb
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CorporateEspionageNewMenus\CorporateEspionage\bin\x86\Debug\Content\Images\tv.xnb
